@@ -1,16 +1,16 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Gravity Maze app (hereinafter referred to as "Application") for mobile devices, which was developed by (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
+This privacy policy is applicable to the Gravity Maze app (hereinafter referred to as "Application") for mobile devices, which was developed by (hereinafter referred to as "Service Provider") as an Ad Supported service. This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
-
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Application does not currently require registration, a Gravity Maze account, or information that you manually provide to the Service Provider in order to play.
 
 **What information does the Application collect automatically?**
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+The Application uses Google Play Services and AdMob. These third-party services may automatically collect information as described in their own privacy policies, including device, advertising, network, and usage information needed to provide and measure advertising, manage consent, prevent fraud, and operate their services.
+
+The Application also stores gameplay progress locally on your device, including adventure completion, level-map unlocks, settings, hint history, and account star balance. Android platform backup is enabled for this local progress file, so Android may back up or transfer this data when supported by your device, account, and system settings.
 
 **Does the Application collect precise real time location information of the device?**
 
@@ -22,7 +22,7 @@ The Application does not use Artificial Intelligence (AI) technologies to proces
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Service Provider does not currently operate a first-party analytics service or a Gravity Maze cloud save service. Information may be processed by third-party services used by the Application in the ways described in this privacy statement and in those services' own privacy policies.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
@@ -41,7 +41,7 @@ You can halt all collection of information by the Application easily by uninstal
 
 **What is the data retention policy and how can you manage your information?**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at user.sergey.b@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+Local gameplay progress is retained on your device for as long as you keep the Application data. You can remove local Application data by using the standard Android uninstall or app data clearing features. Android platform backup or device-transfer copies are controlled by Android and your device/account backup settings. Third-party services retain data according to their own policies.
 
 **How does the Application address children's privacy?**
 
