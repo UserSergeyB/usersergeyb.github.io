@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Gravity Maze app (hereinafter referred to as "Application") for mobile devices, which was developed by (hereinafter referred to as "Service Provider") as an Ad Supported service. This service is provided "AS IS".
+This privacy policy is applicable to the Gravity Maze app (hereinafter referred to as "Application") for mobile devices, which was developed by (hereinafter referred to as "Service Provider"). This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
@@ -8,7 +8,9 @@ The Application does not currently require registration, a Gravity Maze account,
 
 **What information does the Application collect automatically?**
 
-The Application uses Google Play Services and AdMob. These third-party services may automatically collect information as described in their own privacy policies, including device, advertising, network, and usage information needed to provide and measure advertising, manage consent, prevent fraud, and operate their services.
+The Application uses Google Play Services for platform and purchase features. This third-party service may automatically collect information as described in its own privacy policy, including device, network, purchase, and usage information needed to provide, prevent fraud, and operate its services.
+
+The Application uses Unity LevelPlay and Unity Ads to provide rewarded advertisements and interstitial advertisements. These third-party advertising services may automatically collect and process information needed to load, display, measure, limit, and protect advertisements, including device information, IP address, advertising identifier, app information, network information, approximate location derived from network data, ad requests, ad impressions, ad interactions, and diagnostic information. The Application passes a non-consent signal to LevelPlay for non-personalized ad handling. Advertising services may still use information for ad delivery, frequency capping, fraud prevention, reporting, and diagnostics.
 
 The Application also stores gameplay progress locally on your device, including adventure completion, level-map unlocks, settings, hint history, and account star balance. Android platform backup is enabled for this local progress file, so Android may back up or transfer this data when supported by your device, account, and system settings.
 
@@ -27,7 +29,8 @@ The Service Provider does not currently operate a first-party analytics service 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Unity Technologies](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+*   [Unity LevelPlay](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -38,6 +41,8 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 **What are my opt-out rights?**
 
 You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+You may also limit advertising personalization or reset your advertising identifier through your Android device settings where available. These device-level settings are provided by Android and may affect how third-party advertising services use your advertising identifier for personalized ads.
 
 **What is the data retention policy and how can you manage your information?**
 
@@ -57,7 +62,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-05-21
+This privacy policy is effective as of 2026-07-12
 
 **How do you give your consent?**
 
